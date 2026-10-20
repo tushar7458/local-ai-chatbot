@@ -1,0 +1,3 @@
+Python is a programming language.
+Ollama allows users to run language models locally.
+The chatbot stores conversation history in a JSON file.
